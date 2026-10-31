@@ -20,10 +20,10 @@ tienda_descuento_funciones.cpp: código fuente
 README.md: este archivo
 Compilación y ejecución
 
-Requiere g++ (C++11 o superior) o Visual Studio.
+Requiere c++ (C++11 o superior) o Visual Studio.
 
 bash
-g++ tienda_descuento_funciones.cpp -o tienda
+c++ tienda_descuento_funciones.cpp -o tienda
 ./tienda
 
 En Windows, el ejecutable se corre con tienda.exe.
