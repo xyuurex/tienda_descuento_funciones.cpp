@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="tienda_descuento_funciones.cpp/tienda_descuento_funciones.cpp.vcxproj" />
+</Solution>
